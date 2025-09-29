@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "High_Performance_Limit_Order_Book_System", "High_Performance_Limit_Order_Book_System\High_Performance_Limit_Order_Book_System.vcxproj", "{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Debug|x64.ActiveCfg = Debug|x64
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Debug|x64.Build.0 = Debug|x64
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Debug|x86.Build.0 = Debug|Win32
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Release|x64.ActiveCfg = Release|x64
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Release|x64.Build.0 = Release|x64
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Release|x86.ActiveCfg = Release|Win32
+		{0F49C208-F4CB-4F4A-8F87-2E83B3230F68}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0F5308-1C2A-40FE-A3EA-9D30BC77EA1C}
+	EndGlobalSection
+EndGlobal
